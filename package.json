@@ -1,0 +1,25 @@
+{
+  "name": "gradesControlApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CandyDaniele/gradesControlApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CandyDaniele/gradesControlApi/issues"
+  },
+  "homepage": "https://github.com/CandyDaniele/gradesControlApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
+  },
+  "type": "module"
+}

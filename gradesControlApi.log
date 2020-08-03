@@ -1,0 +1,256 @@
+2020-08-02T21:32:26.317Z [gradesControlApi] info: API Started!
+2020-08-02T21:32:38.845Z [gradesControlApi] info: POST /account - {"id":49,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":50,"timestamp":"2020-08-02T21:32:38.820Z"}
+2020-08-02T21:33:45.835Z [gradesControlApi] info: API Started!
+2020-08-02T21:33:54.431Z [gradesControlApi] info: API Started!
+2020-08-02T21:34:34.367Z [gradesControlApi] info: API Started!
+2020-08-02T21:34:36.132Z [gradesControlApi] info: API Started!
+2020-08-02T21:34:51.416Z [gradesControlApi] info: API Started!
+2020-08-02T21:34:59.901Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:09.955Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:13.029Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:18.512Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:21.900Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:24.412Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:32.200Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:36.558Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:40.295Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:40.895Z [gradesControlApi] info: API Started!
+2020-08-02T21:35:56.483Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:02.780Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:06.464Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:07.801Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:32.657Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:38.104Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:44.330Z [gradesControlApi] info: API Started!
+2020-08-02T21:36:46.700Z [gradesControlApi] info: API Started!
+2020-08-02T21:37:26.713Z [gradesControlApi] info: API Started!
+2020-08-02T21:37:30.629Z [gradesControlApi] info: API Started!
+2020-08-02T21:37:33.713Z [gradesControlApi] info: API Started!
+2020-08-02T21:37:38.423Z [gradesControlApi] info: API Started!
+2020-08-02T21:37:46.374Z [gradesControlApi] info: API Started!
+2020-08-02T21:40:03.865Z [gradesControlApi] info: API Started!
+2020-08-02T21:40:35.133Z [gradesControlApi] info: API Started!
+2020-08-02T21:41:04.000Z [gradesControlApi] info: API Started!
+2020-08-02T21:41:15.126Z [gradesControlApi] info: API Started!
+2020-08-02T21:41:21.642Z [gradesControlApi] info: API Started!
+2020-08-02T21:41:24.538Z [gradesControlApi] info: API Started!
+2020-08-02T21:44:22.626Z [gradesControlApi] error: PUT /grades - Registro não encontrado
+2020-08-02T21:54:56.855Z [gradesControlApi] info: API Started!
+2020-08-02T21:55:11.296Z [gradesControlApi] error: PUT /grades - Registro não encontrado
+2020-08-02T21:55:44.426Z [gradesControlApi] info: API Started!
+2020-08-02T21:55:49.995Z [gradesControlApi] info: API Started!
+2020-08-02T21:55:53.975Z [gradesControlApi] info: PUT /grade - {"student":"Yuri Ivanoff","subject":"03 - React","type":"Trabalho","value":55}
+2020-08-02T21:57:38.938Z [gradesControlApi] info: API Started!
+2020-08-02T21:57:49.265Z [gradesControlApi] info: API Started!
+2020-08-02T21:57:51.848Z [gradesControlApi] info: API Started!
+2020-08-02T21:57:57.026Z [gradesControlApi] info: API Started!
+2020-08-02T21:58:31.278Z [gradesControlApi] info: API Started!
+2020-08-02T21:59:01.042Z [gradesControlApi] info: DELETE /grade/:id - 49
+2020-08-02T22:00:27.792Z [gradesControlApi] info: API Started!
+2020-08-02T22:00:36.206Z [gradesControlApi] info: API Started!
+2020-08-02T22:00:39.151Z [gradesControlApi] info: API Started!
+2020-08-02T22:00:42.821Z [gradesControlApi] info: API Started!
+2020-08-02T22:00:47.100Z [gradesControlApi] info: API Started!
+2020-08-02T22:00:50.124Z [gradesControlApi] info: API Started!
+2020-08-02T22:01:08.320Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:01:13.375Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:01:33.092Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:24:45.181Z [gradesControlApi] info: API Started!
+2020-08-02T22:24:50.022Z [gradesControlApi] info: API Started!
+2020-08-02T22:24:55.811Z [gradesControlApi] info: API Started!
+2020-08-02T22:25:00.074Z [gradesControlApi] info: API Started!
+2020-08-02T22:25:29.243Z [gradesControlApi] info: API Started!
+2020-08-02T22:25:32.077Z [gradesControlApi] info: API Started!
+2020-08-02T22:26:00.508Z [gradesControlApi] info: API Started!
+2020-08-02T22:26:33.865Z [gradesControlApi] info: API Started!
+2020-08-02T22:26:50.241Z [gradesControlApi] info: API Started!
+2020-08-02T22:26:56.859Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:10.339Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:22.249Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:29.921Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:32.750Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:35.351Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:38.030Z [gradesControlApi] info: API Started!
+2020-08-02T22:27:42.440Z [gradesControlApi] info: API Started!
+2020-08-02T22:28:51.659Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:05.524Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:19.079Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:21.295Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:24.843Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:28.901Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:30.735Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:34.464Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:40.753Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:47.737Z [gradesControlApi] info: API Started!
+2020-08-02T22:29:56.605Z [gradesControlApi] info: API Started!
+2020-08-02T22:30:19.819Z [gradesControlApi] info: API Started!
+2020-08-02T22:31:20.368Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:31:56.891Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:34:05.123Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:34:47.248Z [gradesControlApi] info: API Started!
+2020-08-02T22:35:24.447Z [gradesControlApi] info: API Started!
+2020-08-02T22:35:26.138Z [gradesControlApi] info: API Started!
+2020-08-02T22:35:29.093Z [gradesControlApi] info: API Started!
+2020-08-02T22:35:31.570Z [gradesControlApi] info: API Started!
+2020-08-02T22:35:34.465Z [gradesControlApi] info: API Started!
+2020-08-02T22:35:34.498Z [gradesControlApi] error: GET /grades - Cannot read property 'reduce' of undefined
+2020-08-02T22:36:20.225Z [gradesControlApi] info: API Started!
+2020-08-02T22:36:31.123Z [gradesControlApi] error: GET /grades - student is not defined
+2020-08-02T22:36:41.278Z [gradesControlApi] info: API Started!
+2020-08-02T22:37:00.776Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:37:18.687Z [gradesControlApi] info: API Started!
+2020-08-02T22:37:18.981Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:37:19.872Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:37:35.958Z [gradesControlApi] info: API Started!
+2020-08-02T22:43:27.781Z [gradesControlApi] info: API Started!
+2020-08-02T22:43:30.672Z [gradesControlApi] info: API Started!
+2020-08-02T22:43:37.003Z [gradesControlApi] info: API Started!
+2020-08-02T22:44:02.589Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:44:15.824Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:44:54.894Z [gradesControlApi] info: API Started!
+2020-08-02T22:44:56.723Z [gradesControlApi] info: API Started!
+2020-08-02T22:45:05.449Z [gradesControlApi] info: API Started!
+2020-08-02T22:45:06.115Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:49:25.375Z [gradesControlApi] info: API Started!
+2020-08-02T22:49:28.771Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:50:50.865Z [gradesControlApi] info: API Started!
+2020-08-02T22:50:52.230Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:51:01.192Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:51:09.616Z [gradesControlApi] info: API Started!
+2020-08-02T22:51:21.110Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:52:35.209Z [gradesControlApi] info: API Started!
+2020-08-02T22:52:43.432Z [gradesControlApi] info: API Started!
+2020-08-02T22:52:51.447Z [gradesControlApi] info: API Started!
+2020-08-02T22:52:51.457Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T22:53:21.244Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:12.679Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:16.828Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:25.445Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:27.391Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:29.969Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:31.096Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:35.473Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:36.806Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:41.729Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:43.510Z [gradesControlApi] info: API Started!
+2020-08-02T22:56:45.095Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:12.668Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:20.317Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:26.066Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:31.439Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:34.528Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:36.560Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:45.977Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:47.459Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:57.713Z [gradesControlApi] info: API Started!
+2020-08-02T22:58:59.351Z [gradesControlApi] info: API Started!
+2020-08-02T22:59:07.141Z [gradesControlApi] info: API Started!
+2020-08-02T23:01:22.165Z [gradesControlApi] info: GET /grade/:id
+2020-08-02T23:02:16.251Z [gradesControlApi] error: GET /grades - grade.reduce is not a function
+2020-08-02T23:04:00.540Z [gradesControlApi] info: API Started!
+2020-08-02T23:04:36.307Z [gradesControlApi] info: API Started!
+2020-08-02T23:04:52.925Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:03.513Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:13.316Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:16.723Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:18.783Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:22.374Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:24.841Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:38.810Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:42.959Z [gradesControlApi] info: API Started!
+2020-08-02T23:05:45.669Z [gradesControlApi] error: GET /grades - Invalid status code: 55
+2020-08-02T23:09:37.864Z [gradesControlApi] info: API Started!
+2020-08-02T23:09:59.172Z [gradesControlApi] info: API Started!
+2020-08-02T23:10:00.558Z [gradesControlApi] info: GET /gradeSum - Yuri Ivanoff (03 - React) = 55
+2020-08-02T23:10:24.380Z [gradesControlApi] info: API Started!
+2020-08-02T23:10:25.857Z [gradesControlApi] info: API Started!
+2020-08-02T23:10:32.451Z [gradesControlApi] info: API Started!
+2020-08-02T23:10:34.832Z [gradesControlApi] info: API Started!
+2020-08-02T23:10:40.472Z [gradesControlApi] info: API Started!
+2020-08-02T23:10:58.742Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:03.021Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:10.051Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:23.792Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:27.307Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:31.743Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:40.419Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:45.518Z [gradesControlApi] info: API Started!
+2020-08-02T23:11:47.388Z [gradesControlApi] info: GET /gradeSum - Yuri Ivanoff (03 - React) = 55
+2020-08-02T23:39:10.988Z [gradesControlApi] info: POST /grade - {"id":50,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":50,"timestamp":"2020-08-02T23:39:10.981Z"}
+2020-08-02T23:39:13.149Z [gradesControlApi] info: POST /grade - {"id":51,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":50,"timestamp":"2020-08-02T23:39:13.147Z"}
+2020-08-02T23:39:48.660Z [gradesControlApi] info: GET /gradeSum - Daniele Lucas (10 - JavaScript) = 100
+2020-08-02T23:40:02.845Z [gradesControlApi] info: POST /grade - {"id":52,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":50.55,"timestamp":"2020-08-02T23:40:02.841Z"}
+2020-08-02T23:40:06.079Z [gradesControlApi] info: GET /gradeSum - Daniele Lucas (10 - JavaScript) = 150.55
+2020-08-02T23:40:59.544Z [gradesControlApi] info: API Started!
+2020-08-02T23:41:04.485Z [gradesControlApi] info: API Started!
+2020-08-02T23:47:12.246Z [gradesControlApi] info: API Started!
+2020-08-02T23:47:14.358Z [gradesControlApi] info: API Started!
+2020-08-02T23:47:23.670Z [gradesControlApi] info: API Started!
+2020-08-02T23:47:27.781Z [gradesControlApi] info: API Started!
+2020-08-02T23:47:29.530Z [gradesControlApi] info: API Started!
+2020-08-02T23:47:34.161Z [gradesControlApi] info: API Started!
+2020-08-02T23:48:18.131Z [gradesControlApi] info: API Started!
+2020-08-02T23:48:22.688Z [gradesControlApi] info: API Started!
+2020-08-02T23:48:31.432Z [gradesControlApi] info: API Started!
+2020-08-02T23:48:57.455Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:02.177Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:10.039Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:15.083Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:17.716Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:22.438Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:26.758Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:28.515Z [gradesControlApi] info: API Started!
+2020-08-02T23:49:53.203Z [gradesControlApi] info: API Started!
+2020-08-02T23:50:05.592Z [gradesControlApi] info: API Started!
+2020-08-02T23:50:11.897Z [gradesControlApi] info: API Started!
+2020-08-02T23:50:15.080Z [gradesControlApi] info: API Started!
+2020-08-02T23:50:18.745Z [gradesControlApi] info: API Started!
+2020-08-02T23:51:39.335Z [gradesControlApi] info: GET /gradeSum - Daniele Lucas (10 - JavaScript) = 150.55
+2020-08-02T23:51:42.345Z [gradesControlApi] info: GET /gradeSum - Daniele Lucas (10 - JavaScript) = 150.55
+2020-08-02T23:51:50.530Z [gradesControlApi] info: GET /gradeSum - Daniele Lucas (10 - JavaScript) = 150.55
+2020-08-02T23:51:55.075Z [gradesControlApi] info: GET /gradeAvg - 10 - JavaScript (undefined) = NaN
+2020-08-02T23:53:02.449Z [gradesControlApi] info: GET /gradeAvg - 10 - JavaScript (Trabalho) = 50.18333333333334
+2020-08-02T23:53:34.997Z [gradesControlApi] info: API Started!
+2020-08-02T23:53:37.712Z [gradesControlApi] info: GET /gradeAvg - 10 - JavaScript (Trabalho) = 50.18333333333334
+2020-08-02T23:53:52.271Z [gradesControlApi] info: API Started!
+2020-08-02T23:54:33.338Z [gradesControlApi] info: API Started!
+2020-08-02T23:54:42.491Z [gradesControlApi] info: API Started!
+2020-08-02T23:54:46.645Z [gradesControlApi] info: API Started!
+2020-08-02T23:54:48.347Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:27.123Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:28.802Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:31.687Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:33.218Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:37.107Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:40.092Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:43.562Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:54.540Z [gradesControlApi] info: API Started!
+2020-08-02T23:55:59.852Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:02.121Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:03.888Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:23.892Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:27.872Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:30.492Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:39.559Z [gradesControlApi] info: API Started!
+2020-08-02T23:56:51.685Z [gradesControlApi] info: API Started!
+2020-08-02T23:57:01.685Z [gradesControlApi] info: API Started!
+2020-08-02T23:57:54.067Z [gradesControlApi] info: POST /grade - {"id":53,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":100.2,"timestamp":"2020-08-02T23:57:54.060Z"}
+2020-08-02T23:58:05.194Z [gradesControlApi] info: POST /grade - {"id":54,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":100.3,"timestamp":"2020-08-02T23:58:05.188Z"}
+2020-08-02T23:58:10.558Z [gradesControlApi] info: POST /grade - {"id":55,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":100.4,"timestamp":"2020-08-02T23:58:10.551Z"}
+2020-08-02T23:58:15.015Z [gradesControlApi] info: POST /grade - {"id":56,"student":"Daniele Lucas","subject":"10 - JavaScript","type":"Trabalho","value":100.5,"timestamp":"2020-08-02T23:58:15.012Z"}
+2020-08-02T23:58:43.209Z [gradesControlApi] info: GET /gradeAvg - 10 - JavaScript (Trabalho) = 78.85
+2020-08-02T23:58:53.418Z [gradesControlApi] info: GET /gradeAvg - 10 - JavaScript (Trabalho) = [object Object],[object Object],[object Object]
+2020-08-03T00:04:54.448Z [gradesControlApi] info: GET /gradeAvg - 01 - JavaScript (Fórum) = 10.75
+2020-08-03T00:05:30.085Z [gradesControlApi] info: GET /gradeAvg - 03 - React (Trabalho Prático) = [object Object],[object Object],[object Object]
+2020-08-03T00:06:05.459Z [gradesControlApi] info: GET /gradeAvg - 02 - Node (Desafio) = 27.00
+2020-08-03T00:06:33.689Z [gradesControlApi] info: GET /gradeSum - Loiane Groner (02 - Node) = 47
+2020-08-03T00:07:24.181Z [gradesControlApi] info: POST /grade - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-08-03T00:07:24.178Z"}
+2020-08-03T00:07:45.833Z [gradesControlApi] info: GET /gradeSum - Roberto Achar (03 - React) = 70
+2020-08-03T00:08:22.692Z [gradesControlApi] info: GET /grade/:id
+2020-08-03T00:09:03.164Z [gradesControlApi] error: PUT /grades - Student, Subject, Type e Value são obrigatórios.
+2020-08-03T00:10:19.270Z [gradesControlApi] info: PUT /grade - {"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-08-03T00:10:42.163Z [gradesControlApi] info: GET /gradeAvg - 01 - JavaScript (Desafio) = 13.00
+2020-08-03T00:10:59.971Z [gradesControlApi] info: DELETE /grade/:id - 32
+2020-08-03T00:11:15.378Z [gradesControlApi] info: GET /grade/:id
+2020-08-03T00:11:44.764Z [gradesControlApi] info: GET /gradeAvg - 04 - MongoDB (Trabalho Prático) = 26.00
+2020-08-03T00:11:59.992Z [gradesControlApi] info: GET /grade/:id
